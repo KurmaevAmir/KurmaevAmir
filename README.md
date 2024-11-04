@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm <a href="https://vk.com/aveamm" target="_blank">Kurmaev Amir</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">2nd year student of the Institute of Information Technologies and Intelligent Systems</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
