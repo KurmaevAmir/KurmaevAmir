@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm <a href="https://vk.com/aveamm" target="_blank">Kurmaev Amir</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"></h1>
 <h3 align="center">2nd year student of the Institute of Information Technologies and Intelligent Systems</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -8,14 +8,16 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=KurmaevAmir&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurmaevAmir)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KurmaevAmir&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KurmaevAmir&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KurmaevAmir&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KurmaevAmir&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KurmaevAmir&theme=blueberry&utcOffset=8)
 
 [//]: # (## Hi there 👋)
 
