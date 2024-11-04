@@ -1,4 +1,6 @@
-![](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<div align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif"/>
+</div>
 
 <h1 align="center">Greetings, I'm <a href="https://vk.com/aveamm" target="_blank">Kurmaev Amir</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"></h1>
